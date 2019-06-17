@@ -36,3 +36,5 @@ class Alarm: Equatable, Codable {
 func ==(lhs: Alarm, rhs: Alarm) -> Bool {
     return lhs.uuid == rhs.uuid
 }
+
+//test commit
